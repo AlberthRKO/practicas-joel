@@ -1,17 +1,48 @@
-## PRacticas con joel
+## Practicas con Joel
 
-Se esta haciendo html basico funcional
+Proyecto de practica con HTML y CSS para crear una pagina moderna y funcional.
 
-el html se lo carnaubnasaba iasdiubasubdi
-asd basd bsajd naskd
+## Cambios realizados
 
-asd sabdusab
-sa nsah dsan daslnd ash k
+- Se mejoro por completo el diseno de [index.html](index.html).
+- Se agrego un titulo principal atractivo.
+- Se crearon 3 botones llamativos con estilos distintos.
+- Se anadio una seccion de caracteristicas.
+- Se hizo responsive para que funcione bien en celular y escritorio.
 
-asnbdu asnbd asknoiuasn du9oi
+## Comandos basicos de Git para subir a GitHub
 
-ahsudbasiud absu9idbaiubasasd
+1. Ver el estado de cambios
 
-12312432452344534543543543
+   git status
 
-Se agrego 3 botones mas
+   Descripcion:
+   Muestra que archivos fueron modificados, agregados o eliminados.
+
+2. Agregar archivos al area de preparacion
+
+   git add .
+
+   Descripcion:
+   Agrega todos los cambios actuales para incluirlos en el commit.
+
+3. Crear un commit con mensaje
+
+   git commit -m "Mejora de diseno en index y actualizacion de README"
+
+   Descripcion:
+   Guarda una version de tus cambios en el historial local.
+
+4. Subir cambios a GitHub
+
+   git push origin main
+
+   Descripcion:
+   Sube los commits de tu rama local main al repositorio remoto en GitHub.
+
+## Flujo recomendado rapido
+
+git status
+git add .
+git commit -m "Tu mensaje"
+git push origin main
